@@ -1,6 +1,4 @@
-Got it. Here’s the **only final README** (nothing extra):
 
-```md
 # 🎓 Student Goal Tracker
 
 A Python + Streamlit application that helps students manage learning goals, track progress, and visualize study performance in a simple and structured way.
